@@ -1,2 +1,3 @@
 # 02-homework-assignment
-Create a portfolio to show off future work using bootstrap elements
+
+Creating a responsive portfolio page to highlight future projects using bootstrap elements.
